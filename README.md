@@ -13,3 +13,4 @@ Google colab, Pandas, Numpy, SciKit Learn library, seaborn
 To reproduce the result, run the codes provides in the goggle colab file of the scr folder. The colab is save under the file name Plant Health Prediction.
 
 ## Author
+Dereje W. Mekonnen
