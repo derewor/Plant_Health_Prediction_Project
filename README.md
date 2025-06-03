@@ -16,3 +16,7 @@ To reproduce the result, run the codes provides in the goggle colab file of the 
 Dereje W. Mekonnen
 
 email: derewor@gmail.com
+
+https://www.linkedin.com/in/dereje-worku-mekonnen-a8345217/
+
+
