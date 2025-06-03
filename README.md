@@ -14,3 +14,5 @@ To reproduce the result, run the codes provides in the goggle colab file of the 
 
 ## Author
 Dereje W. Mekonnen
+
+email: derewor@gmail.com
